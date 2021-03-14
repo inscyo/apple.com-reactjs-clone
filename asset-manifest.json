@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/apple.com-reactjs-clone/static/css/main.6bf2e558.chunk.css",
+    "main.css": "/apple.com-reactjs-clone/static/css/main.ef56e650.chunk.css",
     "main.js": "/apple.com-reactjs-clone/static/js/main.4eb7366d.chunk.js",
     "main.js.map": "/apple.com-reactjs-clone/static/js/main.4eb7366d.chunk.js.map",
     "runtime-main.js": "/apple.com-reactjs-clone/static/js/runtime-main.b120b8c9.js",
@@ -8,14 +8,14 @@
     "static/js/2.37d4ac5c.chunk.js": "/apple.com-reactjs-clone/static/js/2.37d4ac5c.chunk.js",
     "static/js/2.37d4ac5c.chunk.js.map": "/apple.com-reactjs-clone/static/js/2.37d4ac5c.chunk.js.map",
     "index.html": "/apple.com-reactjs-clone/index.html",
-    "static/css/main.6bf2e558.chunk.css.map": "/apple.com-reactjs-clone/static/css/main.6bf2e558.chunk.css.map",
+    "static/css/main.ef56e650.chunk.css.map": "/apple.com-reactjs-clone/static/css/main.ef56e650.chunk.css.map",
     "static/js/2.37d4ac5c.chunk.js.LICENSE.txt": "/apple.com-reactjs-clone/static/js/2.37d4ac5c.chunk.js.LICENSE.txt",
     "static/media/sf.css": "/apple.com-reactjs-clone/static/media/SF-UI-Display-Regular.696eab33.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.b120b8c9.js",
     "static/js/2.37d4ac5c.chunk.js",
-    "static/css/main.6bf2e558.chunk.css",
+    "static/css/main.ef56e650.chunk.css",
     "static/js/main.4eb7366d.chunk.js"
   ]
 }
