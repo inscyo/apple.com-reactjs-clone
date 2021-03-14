@@ -1,4 +1,4 @@
-# ReactJS Clone apple.com
+# ReactJS Clone apple.com homepage
 
 **Desclaimer**
 
